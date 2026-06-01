@@ -13,7 +13,7 @@
 
 import java.util.Scanner;
 import java.util.HashMap;
-public class ProblemSet {
+public class TextAnalyzer {
 
 	public static void main(String args[]) {
 		

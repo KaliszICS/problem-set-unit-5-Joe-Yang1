@@ -1,0 +1,9 @@
+K(30%): 100
+I(30%): 93
+C(10%): 100
+A(30%): 93
+95.8% of 80 - 76.67%
+
+Missing welcome message.
+Otherwise good work.
+I would suggest using functions int eh future to break up your code.
